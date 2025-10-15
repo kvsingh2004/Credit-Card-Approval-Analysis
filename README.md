@@ -35,7 +35,7 @@ Performed further data type corrections and validation
 Ran SQL queries for business logic, custom mappings, segmentation (e.g., CASE statements for category interpretation)
 Outlier analysis and integrity review on the SQL side
 
-### 2. Business Analytics Dashboard (Power BI)
+## 3. Business Analytics Dashboard (Power BI)
 
 - KPIs: Total Applicants, Approval Rate, Mean Income, Credit Score
 - Visuals:
